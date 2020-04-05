@@ -44,7 +44,7 @@ const quiz = [
     },
     {
         "q": {
-            "1" : "Entspricht der Preis der Kosmetik von Baalea deren Qualität?"}, 
+            "1" : "Entspricht der Preis der Kosmetik von Balea deren Qualität?"}, 
         "a" : {
             "1": "qualität übersteigt den preis",
             "2": "entspricht",
